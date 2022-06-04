@@ -1,0 +1,8 @@
+aws_region = "ap-south-1"
+cidr_block = "10.66.0.0/16"
+vpc_environment = "Development"
+vpc_name = "DB25-vpc"
+vpc_owner = "Manideep"
+public_subnet1_cidr = "10.66.1.0/24"
+public_subnet2_cidr = "10.66.2.0/24"
+public_subnet3_cidr = "10.66.3.0/24"
